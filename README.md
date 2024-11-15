@@ -14,7 +14,7 @@ I'm Sanskar Gupta aka TheFakeCreator - a passionate developer, tech enthusiast, 
 - Enhancing UI/UX skills
 
 ### 🚀 Projects
-- [**CodeUtsava 8.0**]([https://codeutsava8.netlify.app/](https://codeutsava.nitrr.ac.in/)) - Contributed to the frontend of Codeutsava 8.0.
+- [**CodeUtsava 8.0**](https://codeutsava.nitrr.ac.in/) - Contributed to the frontend of Codeutsava 8.0.
 - [**Diwine Devs**](https://diwinedevs.blogspot.com/) - A blogging website featuring a custom theme built with HTML, CSS, and JavaScript.
 - [**Naruto Themed Website**](https://codeutsava8.netlify.app/) - An interactive website inspired by the Naruto universe with cool animations and effects.
 
