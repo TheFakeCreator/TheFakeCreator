@@ -26,7 +26,7 @@ I enjoy weaving stories through code, combining technology with creative narrati
 - 📖 I love delving into ancient texts and finding new ways to incorporate them into modern technology.
 
 ### 📫 Get in Touch
-- **LinkedIn:** [Your LinkedIn](linkedin.com/in/sanskar-gupta-9236ba280)
+- **LinkedIn:** [SanskarGupta](https://www.linkedin.com/in/sanskargupta80/)
 
 <!---
 TheFakeCreator/TheFakeCreator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
