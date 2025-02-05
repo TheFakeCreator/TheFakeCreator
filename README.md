@@ -10,8 +10,11 @@ I'm Sanskar Gupta aka TheFakeCreator - a passionate developer, tech enthusiast, 
 
 ### 🌱 Currently Learning
 - Advanced JavaScript
-- Machine Learning
+- React
 - Enhancing UI/UX skills
+- Backend Development
+- React
+- Graph Database
 
 ### 🚀 Projects
 - [**CodeUtsava 8.0**](https://codeutsava.nitrr.ac.in/) - Contributed to the frontend of Codeutsava 8.0.
