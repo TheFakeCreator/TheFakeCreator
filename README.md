@@ -279,11 +279,11 @@ const techStack = [
 
 ### **Leetcode Achievements**
 
-🥉 **Max Rating**: 1426 (Division 3)
+⚡ **Problems Solved**: 120+ DSA challenges
 
-🌟 **Global Rank**: 1755 in Starters 163
+📈 **Easy Qestion**: 75+
 
-⚡ **Problems Solved**: 100+ DSA challenges
+📈 **Medium Questions**: 45+
 
 📈 **Consistent Growth** in algorithmic thinking
 
