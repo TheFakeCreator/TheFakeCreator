@@ -176,20 +176,34 @@ Creative portfolio and client interaction platform.
 
 # Tech Stack
 
-## Languages
-`JavaScript` • `TypeScript` • `Python` • `C++`
+<div align="center">
 
-## Frontend
-`React` • `Next.js` • `TailwindCSS`
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+</p>
 
-## Backend
-`Node.js` • `Express.js`
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
-## Database & Cloud
-`MongoDB` • `PostgreSQL` • `Firebase` • `Cloudinary`
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-## Tools
-`Git` • `GitHub` • `Figma` • `Postman` • `Vercel`
+### Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel,docker" />
+</p>
+
+</div>
 
 ---
 
